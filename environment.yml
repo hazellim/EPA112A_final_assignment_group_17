@@ -1,0 +1,14 @@
+name: epa112a
+channels:
+  - defaults
+dependencies:
+  - scikit-learn
+  - scipy
+  - pandas
+  - statsmodels
+  - ipykernel
+  - jupyter
+  - python=3.11
+  - numpy
+  - seaborn
+  - matplotlib
