@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/sdg_wdi/WDICSV.csv
+data/sdg_wdi/WDIfootnote.csv
