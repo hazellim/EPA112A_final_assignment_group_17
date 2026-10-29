@@ -1,0 +1,218 @@
+country_code,country_name,years_observed,complete_years,v2x_gender_available,maternal_available,under5_available,gdp_ppp_available
+ABW,Aruba,25,0,0,0,0,25
+AFG,Afghanistan,25,24,25,24,25,25
+AGO,Angola,25,24,25,24,25,25
+ALB,Albania,25,24,25,24,25,25
+AND,Andorra,25,0,0,24,25,25
+ARE,United Arab Emirates,25,24,25,24,25,25
+ARG,Argentina,25,24,25,24,25,25
+ARM,Armenia,25,24,25,24,25,25
+ASM,American Samoa,25,0,0,0,0,0
+ATG,Antigua and Barbuda,25,0,0,24,25,25
+AUS,Australia,25,24,25,24,25,25
+AUT,Austria,25,24,25,24,25,25
+AZE,Azerbaijan,25,24,25,24,25,25
+BDI,Burundi,25,24,25,24,25,25
+BEL,Belgium,25,24,25,24,25,25
+BEN,Benin,25,24,25,24,25,25
+BFA,Burkina Faso,25,24,25,24,25,25
+BGD,Bangladesh,25,24,25,24,25,25
+BGR,Bulgaria,25,24,25,24,25,25
+BHR,Bahrain,25,24,25,24,25,25
+BHS,"Bahamas, The",25,0,0,24,25,25
+BIH,Bosnia and Herzegovina,25,24,25,24,25,25
+BLR,Belarus,25,24,25,24,25,25
+BLZ,Belize,25,0,0,24,25,25
+BMU,Bermuda,25,0,0,0,0,25
+BOL,Bolivia,25,24,25,24,25,25
+BRA,Brazil,25,24,25,24,25,25
+BRB,Barbados,25,24,25,24,25,25
+BRN,Brunei Darussalam,25,0,0,24,25,25
+BTN,Bhutan,25,24,25,24,25,25
+BWA,Botswana,25,24,25,24,25,25
+CAF,Central African Republic,25,24,25,24,25,25
+CAN,Canada,25,24,25,24,25,25
+CHE,Switzerland,25,24,25,24,25,25
+CHL,Chile,25,24,25,24,25,25
+CHN,China,25,24,25,24,25,25
+CIV,Ivory Coast,25,24,25,24,25,25
+CMR,Cameroon,25,24,25,24,25,25
+COD,Democratic Republic of the Congo,25,24,25,24,25,25
+COG,Republic of the Congo,25,24,25,24,25,25
+COL,Colombia,25,24,25,24,25,25
+COM,Comoros,25,24,25,24,25,25
+CPV,Cape Verde,25,24,25,24,25,25
+CRI,Costa Rica,25,24,25,24,25,25
+CUB,Cuba,25,0,25,24,25,0
+CUW,Curacao,25,0,0,0,0,25
+CYM,Cayman Islands,25,0,0,0,0,19
+CYP,Cyprus,25,24,25,24,25,25
+CZE,Czechia,25,24,25,24,25,25
+DEU,Germany,25,24,25,24,25,25
+DJI,Djibouti,25,11,25,24,25,12
+DMA,Dominica,25,0,0,24,25,25
+DNK,Denmark,25,24,25,24,25,25
+DOM,Dominican Republic,25,24,25,24,25,25
+DZA,Algeria,25,24,25,24,25,25
+ECU,Ecuador,25,24,25,24,25,25
+EGY,Egypt,25,24,25,24,25,25
+ERI,Eritrea,25,0,25,24,25,0
+ESP,Spain,25,24,25,24,25,25
+EST,Estonia,25,24,25,24,25,25
+ETH,Ethiopia,25,24,25,24,25,25
+FIN,Finland,25,24,25,24,25,25
+FJI,Fiji,25,24,25,24,25,25
+FRA,France,25,24,25,24,25,25
+FRO,Faroe Islands,25,0,0,0,0,17
+FSM,"Micronesia, Fed. Sts.",25,0,0,24,25,25
+GAB,Gabon,25,24,25,24,25,25
+GBR,United Kingdom,25,24,25,24,25,25
+GEO,Georgia,25,24,25,24,25,25
+GHA,Ghana,25,24,25,24,25,25
+GIB,Gibraltar,25,0,0,0,0,0
+GIN,Guinea,25,24,25,24,25,25
+GMB,The Gambia,25,24,25,24,25,25
+GNB,Guinea-Bissau,25,24,25,24,25,25
+GNQ,Equatorial Guinea,25,24,25,24,25,25
+GRC,Greece,25,24,25,24,25,25
+GRD,Grenada,25,0,0,24,25,25
+GRL,Greenland,25,0,0,0,0,24
+GTM,Guatemala,25,24,25,24,25,25
+GUM,Guam,25,0,0,0,0,0
+GUY,Guyana,25,24,25,24,25,25
+HKG,Hong Kong,25,0,25,0,0,25
+HND,Honduras,25,24,25,24,25,25
+HRV,Croatia,25,24,25,24,25,25
+HTI,Haiti,25,24,25,24,25,25
+HUN,Hungary,25,24,25,24,25,25
+IDN,Indonesia,25,24,25,24,25,25
+IMN,Isle of Man,25,0,0,0,0,0
+IND,India,25,24,25,24,25,25
+IRL,Ireland,25,24,25,24,25,25
+IRN,Iran,25,24,25,24,25,25
+IRQ,Iraq,25,24,25,24,25,25
+ISL,Iceland,25,24,25,24,25,25
+ISR,Israel,25,24,25,24,25,25
+ITA,Italy,25,24,25,24,25,25
+JAM,Jamaica,25,24,25,24,25,25
+JOR,Jordan,25,24,25,24,25,25
+JPN,Japan,25,24,25,24,25,25
+KAZ,Kazakhstan,25,24,25,24,25,25
+KEN,Kenya,25,24,25,24,25,25
+KGZ,Kyrgyzstan,25,24,25,24,25,25
+KHM,Cambodia,25,24,25,24,25,25
+KIR,Kiribati,25,0,0,24,25,25
+KNA,St. Kitts and Nevis,25,0,0,24,25,25
+KOR,South Korea,25,24,25,24,25,25
+KWT,Kuwait,25,24,25,24,25,25
+LAO,Laos,25,24,25,24,25,25
+LBN,Lebanon,25,24,25,24,25,25
+LBR,Liberia,25,24,25,24,25,25
+LBY,Libya,25,24,25,24,25,25
+LCA,St. Lucia,25,0,0,24,25,25
+LIE,Liechtenstein,25,0,0,0,0,0
+LKA,Sri Lanka,25,24,25,24,25,25
+LSO,Lesotho,25,24,25,24,25,25
+LTU,Lithuania,25,24,25,24,25,25
+LUX,Luxembourg,25,24,25,24,25,25
+LVA,Latvia,25,24,25,24,25,25
+MAC,"Macao SAR, China",25,0,0,0,0,25
+MAF,St. Martin (French part),25,0,0,0,0,0
+MAR,Morocco,25,24,25,24,25,25
+MCO,Monaco,25,0,0,24,25,0
+MDA,Moldova,25,24,25,24,25,25
+MDG,Madagascar,25,24,25,24,25,25
+MDV,Maldives,25,24,25,24,25,25
+MEX,Mexico,25,24,25,24,25,25
+MHL,Marshall Islands,25,0,0,24,25,25
+MKD,North Macedonia,25,24,25,24,25,25
+MLI,Mali,25,24,25,24,25,25
+MLT,Malta,25,24,25,24,25,25
+MMR,Burma/Myanmar,25,24,25,24,25,25
+MNE,Montenegro,25,18,19,24,25,25
+MNG,Mongolia,25,24,25,24,25,25
+MNP,Northern Mariana Islands,25,0,0,0,0,0
+MOZ,Mozambique,25,24,25,24,25,25
+MRT,Mauritania,25,24,25,24,25,25
+MUS,Mauritius,25,24,25,24,25,25
+MWI,Malawi,25,24,25,24,25,25
+MYS,Malaysia,25,24,25,24,25,25
+NAM,Namibia,25,24,25,24,25,25
+NCL,New Caledonia,25,0,0,0,0,0
+NER,Niger,25,24,25,24,25,25
+NGA,Nigeria,25,24,25,24,25,25
+NIC,Nicaragua,25,24,25,24,25,25
+NLD,Netherlands,25,24,25,24,25,25
+NOR,Norway,25,24,25,24,25,25
+NPL,Nepal,25,24,25,24,25,25
+NRU,Naoero,25,0,0,24,25,25
+NZL,New Zealand,25,24,25,24,25,25
+OMN,Oman,25,20,21,24,25,25
+PAK,Pakistan,25,24,25,24,25,25
+PAN,Panama,25,24,25,24,25,25
+PER,Peru,25,24,25,24,25,25
+PHL,Philippines,25,24,25,24,25,25
+PLW,Palau,25,0,0,24,25,25
+PNG,Papua New Guinea,25,24,25,24,25,25
+POL,Poland,25,24,25,24,25,25
+PRI,Puerto Rico (US),25,0,0,24,0,25
+PRK,North Korea,25,0,25,24,25,0
+PRT,Portugal,25,24,25,24,25,25
+PRY,Paraguay,25,24,25,24,25,25
+PSE,Palestine/West Bank,25,24,25,24,25,25
+PYF,French Polynesia,25,0,0,0,0,0
+QAT,Qatar,25,18,19,24,25,25
+ROU,Romania,25,24,25,24,25,25
+RUS,Russia,25,24,25,24,25,25
+RWA,Rwanda,25,24,25,24,25,25
+SAU,Saudi Arabia,25,21,22,24,25,25
+SDN,Sudan,25,24,25,24,25,25
+SEN,Senegal,25,24,25,24,25,25
+SGP,Singapore,25,24,25,24,25,25
+SLB,Solomon Islands,25,24,25,24,25,25
+SLE,Sierra Leone,25,24,25,24,25,25
+SLV,El Salvador,25,24,25,24,25,25
+SMR,San Marino,25,0,0,24,25,24
+SOM,Somalia,25,24,25,24,25,25
+SRB,Serbia,25,24,25,24,25,25
+SSD,South Sudan,25,0,14,24,25,0
+STP,Sao Tome and Principe,25,24,25,24,25,25
+SUR,Suriname,25,24,25,24,25,25
+SVK,Slovakia,25,24,25,24,25,25
+SVN,Slovenia,25,24,25,24,25,25
+SWE,Sweden,25,24,25,24,25,25
+SWZ,Eswatini,25,24,25,24,25,25
+SXM,Sint Maarten (Dutch part),25,0,0,0,0,16
+SYC,Seychelles,25,24,25,24,25,25
+SYR,Syria,25,23,25,24,25,23
+TCA,Turks and Caicos Islands,25,0,0,0,25,18
+TCD,Chad,25,24,25,24,25,25
+TGO,Togo,25,24,25,24,25,25
+THA,Thailand,25,24,25,24,25,25
+TJK,Tajikistan,25,24,25,24,25,25
+TKM,Turkmenistan,25,24,25,24,25,25
+TLS,Timor-Leste,25,23,24,24,25,25
+TON,Tonga,25,0,0,24,25,25
+TTO,Trinidad and Tobago,25,24,25,24,25,25
+TUN,Tunisia,25,24,25,24,25,25
+TUR,Türkiye,25,24,25,24,25,25
+TUV,Tuvalu,25,0,0,24,25,25
+TWN,Taiwan,25,0,25,0,0,0
+TZA,Tanzania,25,24,25,24,25,25
+UGA,Uganda,25,24,25,24,25,25
+UKR,Ukraine,25,24,25,24,25,25
+URY,Uruguay,25,24,25,24,25,25
+USA,United States of America,25,24,25,24,25,25
+UZB,Uzbekistan,25,24,25,24,25,25
+VCT,St. Vincent and the Grenadines,25,0,0,24,25,25
+VEN,Venezuela,25,0,25,24,25,0
+VGB,British Virgin Islands,25,0,0,0,25,0
+VIR,Virgin Islands (U.S.),25,0,0,0,0,21
+VNM,Vietnam,25,24,25,24,25,25
+VUT,Vanuatu,25,24,25,24,25,25
+WSM,Samoa,25,0,0,24,25,25
+XKX,Kosovo,25,0,13,0,25,17
+YEM,Yemen,25,0,25,24,25,0
+ZAF,South Africa,25,24,25,24,25,25
+ZMB,Zambia,25,24,25,24,25,25
+ZWE,Zimbabwe,25,24,25,24,25,25

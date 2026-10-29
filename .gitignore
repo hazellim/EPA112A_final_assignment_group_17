@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 data/sdg_wdi/WDICSV.csv
 data/sdg_wdi/WDIfootnote.csv
+data/raw_data/V-Dem-CY-Core-v16.csv
